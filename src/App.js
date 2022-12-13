@@ -23,16 +23,6 @@ function App() {
     </Routes>
     </BrowserRouter>
     </>
-    // <div className="App">
-    //   <BrowserRouter>
-    //   <Router>
-    //     <Header></Header>
-    //     <Routes>
-    //       <Route path="/" exact component={Candidate}></Route>
-    //     </Routes>
-    //   </Router>
-    //   </BrowserRouter>
-    // </div>
   );
 }
 
